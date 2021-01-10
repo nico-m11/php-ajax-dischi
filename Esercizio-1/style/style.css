@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  display: inline-flex;
+  flex-direction: column;
+}
+img {
+  height: 250px;
+  width: 250px;
+}
